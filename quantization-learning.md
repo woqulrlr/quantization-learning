@@ -61,7 +61,9 @@ Step4：假定 c 用 n 位表示 b。w 表示最终的定点数的字长，f 表
 2.3均量化
 2.4非均量化
 
-## 3.模型量化3种
+## 3.评估衡量量化优劣？
+
+## 4.模型量化3种
 
 3.1Post training Dynamic Quantization
 3.2Post training Static Quantization
