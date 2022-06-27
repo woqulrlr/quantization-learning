@@ -58,3 +58,8 @@ Step4：假定 c 用 n 位表示 b。w 表示最终的定点数的字长，f 表
 3.1Post training Dynamic Quantization
 3.2Post training Static Quantization
 3.3QAT(Quantization Aware Training)
+
+
+## reference
+Quantizing deep convolutional networks for efficient inference: A whitepaper : https://arxiv.org/abs/1806.08342
+A White Paper on Neural Network Quantization : https://arxiv.org/abs/2106.08295
